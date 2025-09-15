@@ -1,15 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Ratul</h1>
 
-<h3 align="center">A curious developer turning ideas into playful code 🌀</h3>
+<h3 align="center">A curious developer creating playful and quirky Python & web experiments 🌀</h3>
 
-<h3 align="left">Languages & Tools I Tinker With:</h3>
+<h3 align="left">Languages & Tools I Use:</h3>
 <p align="left">
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Studio" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/kotlin" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" alt="Next.js" width="40" height="40"/>
 </p>
 
 &nbsp;
